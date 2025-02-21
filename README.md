@@ -12,7 +12,7 @@ Sample link mark down: [title](http://~)
 - Java basics
     JVM, JRE, JDK
 - OOP
-- File IO: blocking i/o and non-blocing i/o
+- File IO: blocking i/o and non-blocking i/o
 - Stream
 - Lambda
 - Collection
@@ -44,7 +44,6 @@ Sample link mark down: [title](http://~)
   - SIDECAR
   - API COMPOSITION
   - EVENT DRIVEN
-  - 
 
 ## Database:
 - MySQL -> sql transaction
@@ -54,6 +53,9 @@ Sample link mark down: [title](http://~)
 ## RabbitMQ
 ## Kafka
 ## MQTT
+## Docker
+## AWS
+
 ## Interview questions
 ## Leetcode
 ## English
